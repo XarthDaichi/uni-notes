@@ -1,0 +1,18 @@
+[submodule "Programming-4"]
+	path = Programming-4
+	url = git@github.com:XarthDaichi/Programming-4.git
+[submodule "operating-systems"]
+	path = operating-systems
+	url = git@github.com:XarthDaichi/operating-systems.git
+[submodule "SS2023/operating-systems"]
+	path = SS2023/operating-systems
+	url = git@github.com:XarthDaichi/operating-systems.git
+[submodule "SS2023/Programming-4"]
+	path = SS2023/Programming-4
+	url = git@github.com:XarthDaichi/Programming-4.git
+[submodule "SS2023/computer-networking"]
+	path = SS2023/computer-networking
+	url = git@github.com:XarthDaichi/computer-networking.git
+[submodule "SS2023/databases"]
+	path = SS2023/databases
+	url = git@github.com:XarthDaichi/databases.git

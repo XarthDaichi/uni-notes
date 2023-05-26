@@ -4,25 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "33f502af9e607ad0",
+        "id": "a9d080b18da15c36",
         "type": "tabs",
         "children": [
           {
-            "id": "a02d495834676b13",
+            "id": "5b7f48bdc36ed47d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Computer Networking/Computer Networking and communications.canvas",
-                "viewState": {
-                  "x": -159.85603340292295,
-                  "y": -904.6603340292268,
-                  "zoom": -0.23362167801375472
-                }
+                "file": "Programming 4/Programming 4 README.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "869fbe63c2fe2a14",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -52,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#/app-bases/app",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 390.5
   },
   "right": {
     "id": "e29b226e43ae5742",
@@ -89,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networking/Computer Networking and communications.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Networking/Computer Networking and communications.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Networking/Computer Networking and communications.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -151,16 +155,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7f6b3a5e8ca2737",
+  "active": "869fbe63c2fe2a14",
   "lastOpenFiles": [
+    "Operating Systems/test_ternary.c",
+    "Operating Systems/testingoffset.c",
+    "Operating Systems/testingoffset",
+    "Operating Systems/testing.c",
+    "Operating Systems/testing",
+    "Operating Systems/test2.cpp",
+    "Operating Systems/test.cpp",
+    "Operating Systems/tarea4_enunciado.txt",
+    "Operating Systems/srt-throughput-demonstration.xopp",
+    "Operating Systems/Solución del examen 2.md",
+    "Operating Systems/Sincronización en Sistemas Distribuidos.md",
+    "Operating Systems/salida1",
+    "Operating Systems/sal1_recursivo",
+    "Operating Systems/Proyecto 2 y Proyecto 3.md",
+    "Operating Systems/Manejo de consistencia de eventos en sistemas distribuidos.md",
+    "Operating Systems/Algoritmo de Hauffman.canvas",
+    "Operating Systems/tareaTestWindowsLinux/final/Windows/Screenshot 2023-05-03 225115.png",
+    "Operating Systems/tareaTestWindowsLinux/final/Windows/Screenshot 2023-05-03 225107.png",
+    "Operating Systems/tareaTestWindowsLinux/final/Windows/Screenshot 2023-05-03 225100.png",
+    "Operating Systems/tareaTestWindowsLinux/final/Windows/Screenshot 2023-05-03 223550.png",
+    "Operating Systems/tareaTestWindowsLinux/final/Windows/Screenshot 2023-05-03 223544.png",
+    "Operating Systems/tareaTestWindowsLinux/final/Windows/Screenshot 2023-05-03 223512.png",
+    "Operating Systems/tareaTestWindowsLinux/final/Windows/Screenshot 2023-05-03 220002.png",
+    "Operating Systems/tareaTestWindowsLinux/final/Windows/Screenshot 2023-05-03 215947.png",
+    "Operating Systems/tareaTestWindowsLinux/final/Linux/Screenshot from 2023-05-03 21-36-52.png",
+    "Operating Systems/tareaTestWindowsLinux/final/Linux/Screenshot from 2023-05-03 21-35-16.png",
+    "Programming 4/Programming 4 README.md",
+    "Programming 4/Practica de Examen (Cine).md",
+    "Programming 4/Guia Normal (Cuentas y Clientes).md",
+    "Programming 4/Guia Base de Datos (Cuentas y Clientes).md",
+    "Untitled.canvas",
+    "Databases/Procedimientos - Funciones - Triggers - Transacciones.md",
+    "Databases/Class 18-05-2023 Databases.md",
     "Computer Networking/Switches.md",
-    "Operating Systems",
-    "Systems Engineering",
-    "Databases",
-    "Programming 4",
-    "Computer Networking",
     "Computer Networking/Computer Networking and communications.canvas",
-    "Untitled.md",
+    "Programming 4/project1/README.md",
     "2023-05-05.md"
   ]
 }

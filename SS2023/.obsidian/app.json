@@ -1,1 +1,8 @@
-{}
+{
+  "vimMode": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es"
+  ]
+}
